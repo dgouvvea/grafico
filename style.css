@@ -1,0 +1,30 @@
+html{
+    background: white;
+}     
+
+body {
+    background: black;
+    text-align: left;
+    display: flex;
+    height: auto;
+    margin: 5rem;
+    border: solid 5px darkgray;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+
+#meuGrafico {
+    max-height: 300px;
+    max-width: 300px;
+    width: 100%;
+    align-items: left;
+}
+
+h1 {
+    color: white;
+    font-size: 25px;
+    padding-right: 3rem;
+
+}
+
